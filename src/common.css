@@ -1,0 +1,12 @@
+:root {
+    --color-primary: #0083FC;
+    --color-accent: #FF5533;
+    --color-grey: #E5E5E5;
+    --color-white: #fff;
+}
+
+* {
+    all: unset;
+    display: revert;
+    justify-content: center;
+}

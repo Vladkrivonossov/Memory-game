@@ -1,0 +1,17 @@
+header {
+    margin: 165px 237px 0px;
+    width: 965px;
+    height: 130px;
+    justify-content: center;
+    text-align: center;
+}
+
+.header__logo {
+    color: var(--color-primary);
+    font-family: 'Formular', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 35px;
+    text-transform: uppercase;
+}
